@@ -1,4 +1,4 @@
-# Web Development 102 - TF -  Lab 1 - *Samosa Selector*
+# Web Development 102 - TF -  Lab 2 - *Samosa Selector*
 
 Submitted by: **Kobe Jordan**
 
